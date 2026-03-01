@@ -1,5 +1,7 @@
 # OpenClaw Widget
 
+> **平台：Windows（WPF/.NET Framework）**
+
 一只放在桌面右下角的 OpenClaw 状态小组件（托盘 + 悬浮信息面板）。
 
 ## 主要功能
@@ -36,7 +38,7 @@
 - `build.bat`：本地编译脚本
 - `OpenClawWidget.exe`：编译产物
 
-## 构建与运行
+## 构建与运行（Windows）
 
 ```bat
 build.bat
